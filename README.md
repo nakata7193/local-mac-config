@@ -1,1 +1,1 @@
-# local-mac-config
+# This is my personal config for Mac using Ansible for automation
